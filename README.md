@@ -11,5 +11,5 @@
    
    - 用来练习的脚本 `test_es_conn.py` 、`test_oracle_conn.py`、 `try_suds.py`来测试接口
 
-### 2. 实时获取闭环节点配置，自动生成excel
+### 2. 实时获取闭环节点配置，自动生成excel分组
    

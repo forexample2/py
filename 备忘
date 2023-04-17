@@ -1,0 +1,10 @@
+sybase字符编码 charset cp936 中文不会乱码
+
+ctrl + q 快速文档
+ctrl + j 建议列表
+ctrl + b 申明
+ctrl + / 注释
+ctrl + shift + / 块注释
+ctrl + e 最近文件
+ctrl +p 查看形参
+ctrl + shift + j  两行并一行

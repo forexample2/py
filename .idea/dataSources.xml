@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cdrdb" uuid="a14af062-7967-4aa8-8759-08154ff2a413">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>东方</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@172.31.10.164:1521/hip32.shpdh.org</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="database" value="172.31.10.164:1521/hip32.shpdh.org" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="his_zy" uuid="36757343-f28f-455c-9f97-d98581d82400">
+      <driver-ref>sybase.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>东方住院库</remarks>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sybase://192.168.3.16:5000/dfrun</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <driver-properties>
+        <property name="CHARSET" value="cp936" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
